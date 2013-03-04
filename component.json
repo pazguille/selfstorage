@@ -1,0 +1,19 @@
+{
+  "name": "selfstorage",
+  "repo": "pazguille/selfstorage",
+  "description": "Library for caching scripts in localStorage.",
+  "version": "0.0.1",
+  "author": "Guille Paz <guille87paz@gmail.com>",
+  "twitter": "@pazguille",
+  "keywords": [
+    "localStorage",
+    "storage",
+    "cahe"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}

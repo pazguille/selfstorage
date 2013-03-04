@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Self storage Component</title>
+    </head>
+    <body>
+        <script src="../build/build.js"></script>
+        <script>
+            var selfstorage = require('selfstorage');
+
+            selfstorage.use('./jquery.js', function () {
+                console.log($);
+            });
+        </script>
+    </body>
+</html>
