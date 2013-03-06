@@ -53,7 +53,7 @@ The get(url) method returns the current value associated with the given url.
 ### selfstorage#remove(url)
 The remove(url) method deletes the url from the collection.
 
-### selfstorage#clear
+### selfstorage#clear()
 The clear() method cleans all the cache (for that domain).
 
 ## Contact
